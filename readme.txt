@@ -1,1 +1,6 @@
-µÄ¶¥¶¥¶¥¶¥¶¥
+ï»¿# ex
+
+## Project setup
+```
+npm install
+```
